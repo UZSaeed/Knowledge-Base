@@ -1,4 +1,4 @@
 ## [[Main TOC]]
-## [[S1.0 Chemistry TOC]]
-##
+## [[Chemistry TOC]]
+## [[Arabic TOC]]
 ##
