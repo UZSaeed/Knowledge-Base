@@ -10,3 +10,9 @@ title: Anions
 :heading: true
 :END:
 ### To determine the charge of an Anion, subtract 8 from the group number
+## Naming Cations
+:PROPERTIES:
+:heading: true
+:END:
+### Begin with the stem of the element name, then **add the ending "ide"**
+#### Ex. Fluorine becomes Fluoride and Chlorine becomes Chloride
